@@ -16,4 +16,5 @@ Evaluation Parameters:
   <li>Normalization+Transformation</li>
   <li>Normalize+Transform+PCA</li>
 </ol>
+<h3><br>Cluster1:c=3 <br> Cluster2:c=4 <br>  Cluster3:c=5</h3>
 <img src="https://github.com/rohanthakur336/Clustering_using_pre-processing-techniques/assets/131163309/d4756ef4-07b9-4b47-ab60-eb89ad82b48d">
